@@ -1,0 +1,23 @@
+C:\Users\student\Desktop\contest\судоку\судоку\bin\Debug\судоку.exe
+C:\Users\student\Desktop\contest\судоку\судоку\bin\Debug\судоку.pdb
+C:\Users\student\Desktop\contest\судоку\судоку\obj\x86\Debug\судоку.Form1.resources
+C:\Users\student\Desktop\contest\судоку\судоку\obj\x86\Debug\судоку.Properties.Resources.resources
+C:\Users\student\Desktop\contest\судоку\судоку\obj\x86\Debug\судоку.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\contest\судоку\судоку\obj\x86\Debug\судоку.exe
+C:\Users\student\Desktop\contest\судоку\судоку\obj\x86\Debug\судоку.pdb
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.exe
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.pdb
+I:\методы логического вывода\судоку\судоку\bin\Debug\судоку.exe
+I:\методы логического вывода\судоку\судоку\bin\Debug\судоку.pdb
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.Form1.resources
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.Properties.Resources.resources
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.csproj.GenerateResource.Cache
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.exe
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.pdb
+G:\методы логического вывода\судоку\судоку\bin\Debug\судоку.exe
+G:\методы логического вывода\судоку\судоку\bin\Debug\судоку.pdb
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.Form1.resources
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.Properties.Resources.resources
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.csproj.GenerateResource.Cache
+I:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.csprojResolveAssemblyReference.cache
+G:\методы логического вывода\судоку\судоку\obj\x86\Debug\судоку.csprojResolveAssemblyReference.cache
